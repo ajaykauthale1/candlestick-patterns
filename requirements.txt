@@ -1,0 +1,14 @@
+plotly
+pandas
+requests
+yfinance
+jupyter
+scikit-learn
+matplotlib
+yahoo_fin
+mplfinance
+pycaret
+ta-lib
+pytictoc
+matplotlib
+certifi
